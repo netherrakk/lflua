@@ -1,9 +1,4 @@
 -- declarations
-local useful = {
-    ["zero"] = 0,
-    ["nil"] = nil,
-    ["global"] = _G
-}
 local getmean = function(a, b)
     return (a + b) / 2 
 end
